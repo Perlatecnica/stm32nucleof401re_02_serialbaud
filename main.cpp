@@ -15,7 +15,7 @@
 
 /****************************************************
 *            RAPID PROTOTYPING WITH NUCLEO          *
-* Example Code 01: Serial                           *
+* Example Code 02: Serial Baud                      *
 * Author: Mauro D'Angelo                            *
 * Organization: Perlatecnica APS ETS				*
 *****************************************************/
