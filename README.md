@@ -1,1 +1,1 @@
-# stm32nucleof401re_01_serial
+# stm32nucleof401re_02_serialbaud
