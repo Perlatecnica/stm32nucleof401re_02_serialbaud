@@ -26,12 +26,9 @@ UnbufferedSerial pc(USBTX, USBRX);
 
 // Entry point
 int main() {
+  // It changes the serial connection baudrate
+  pc.baud(115200);
+
   // Print to the serial console a string
   printf("Hello World !\r\n");
-  printf("Here I'm !\r\n");
-  printf("It works !\r\n");
 }
-
-// OBSERVE THAT ONCE THE MESSAGES HAVE BEEN PRINTED, NOTHING ELSE HAPPENS
-
-// EXERCISE: Modify the printed messages
